@@ -2,7 +2,7 @@
 
 I'm a junior studying at ASU in software engineering with a passion for open source and building fun side projects - especially Discord applications. I'm currently learning C# and looking to expand my backend skills. Eventually, I'd like to create my own game using Godot!
 
-Outside of tech, I love gaming, listening to music and creating pixel art. My favorite game is currently Goddess of Victory: NIKKE!
+Outside of tech, I love gaming, animals, and creating pixel art. My favorite game is currently Goddess of Victory: NIKKE!
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="typing cat gif" /> Skills
 ### Languages & Syntax:
