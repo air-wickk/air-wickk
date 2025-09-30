@@ -1,8 +1,8 @@
 # Hello world 👋, I'm Eric!
 
-I'm a junior studying at ASU in software engineering with a passion for open source and building fun side projects - especially Discord applications. I'm best with Java but currently learning C# and looking to expand my backend skills. As one of my long-term goals, I'd like to create my own game using the Godot engine!
+I'm a senior studying at ASU in software engineering with a passion for open source and building fun side projects - especially Discord applications. I'm most comfortable with C# but currently practicing C and always looking to expand my backend skills. As one of my long-term goals, I'd like to create my own game in Unity!
 
-Outside of tech, I love anime, gaming, animals, and creating pixel art. My favorite game is currently Goddess of Victory: NIKKE!
+Outside of tech, I love anime, gaming, animals, and practicing pixel art.
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="20" alt="typing cat gif" /> Skills
 ### Languages & Syntax:
