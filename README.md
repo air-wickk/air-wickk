@@ -49,7 +49,3 @@
     </td>
   </tr>
 </table>
-
-
-## 📫 Contact:
-- [LinkedIn](https://www.linkedin.com/in/eric-worwa-b0402a265)
